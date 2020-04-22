@@ -1,4 +1,4 @@
 ## 底层结构
 由数组和链表组合构成的数据结构 java8之后链表有红黑树的部分
-![](https://github.com/yuzhanwu/yunjin/blob/master/doc/basic/image/hashmap1.jpg)
+![](https://camo.githubusercontent.com/371582d1941290e70c693f968be1ca56fd1e1138/68747470733a2f2f747661312e73696e61696d672e636e2f6c617267652f303036744e6252776c7931673970636868627270336a3330657a30326e676c692e6a7067)
 ## 扩容
