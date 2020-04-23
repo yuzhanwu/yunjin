@@ -3,7 +3,7 @@
 1, HashTable
 
 跟HashMap相比Hashtable是线程安全的，适合在多线程的情况下使用，但是效率可不太乐观。
-
+![](https://github.com/yuzhanwu/yunjin/blob/master/doc/basic/image/hashtable.jpg)
 Hashtable 是不允许键或值为 null 的，HashMap 的键值则都可以为 null
 因为Hashtable使用的是安全失败机制（fail-safe），这种机制会使你此次读到的数据不一定是最新的数据。
 如果你使用null值，就会使得其无法判断对应的key是不存在还是为空，因为你无法再调用一次contain(key）来对key是否存在进行判断，ConcurrentHashMap同理。
@@ -11,6 +11,10 @@ Hashtable 是不允许键或值为 null 的，HashMap 的键值则都可以为 n
 2, ConcurrentHashMap
 
 >结构
+
+![](https://github.com/yuzhanwu/yunjin/blob/master/doc/basic/image/current1.jpg)
+
+![](https://github.com/yuzhanwu/yunjin/blob/master/doc/basic/image/current2.jpg)
 
 分段锁，每当一个线程占用锁访问一个 Segment 时，不会影响到其他的 Segment
 
