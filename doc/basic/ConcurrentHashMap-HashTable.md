@@ -4,7 +4,7 @@
 
 跟HashMap相比Hashtable是线程安全的，适合在多线程的情况下使用，但是效率可不太乐观。
 
-![image](https://gitee.com/yzwater/yunjin/blob/master/image/hashtable.jpg)
+![](https://gitee.com/yzwater/yunjin/blob/master/image/hashtable.jpg)
 
 Hashtable 是不允许键或值为 null 的，HashMap 的键值则都可以为 null
 因为Hashtable使用的是安全失败机制（fail-safe），这种机制会使你此次读到的数据不一定是最新的数据。
@@ -14,9 +14,9 @@ Hashtable 是不允许键或值为 null 的，HashMap 的键值则都可以为 n
 
 >结构
 
-![image](https://gitee.com/yzwater/yunjin/blob/master/image/current1.jpg)
+![](https://gitee.com/yzwater/yunjin/blob/master/image/current1.jpg)
 
-![image](https://gitee.com/yzwater/yunjin/blob/master/image/current2.jpg)
+![](https://gitee.com/yzwater/yunjin/blob/master/image/current2.jpg)
 
 分段锁，每当一个线程占用锁访问一个 Segment 时，不会影响到其他的 Segment
 
