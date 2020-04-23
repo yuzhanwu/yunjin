@@ -5,7 +5,7 @@
 
 数组里面每个地方都存了Key-Value这样的实例，在Java7叫Entry在Java8中叫Node
 
-![](https://camo.githubusercontent.com/371582d1941290e70c693f968be1ca56fd1e1138/68747470733a2f2f747661312e73696e61696d672e636e2f6c617267652f303036744e6252776c7931673970636868627270336a3330657a30326e676c692e6a7067)
+![](https://gitee.com/yzwater/yunjin/blob/master/image/hashmap1.jpg)
 
 因为他本身所有的位置都为null，在put插入的时候会根据key的hash去计算一个index值。
 
