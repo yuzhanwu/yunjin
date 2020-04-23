@@ -5,7 +5,7 @@
 
 - Java基础
 
-  - [HashMap](https://github.com/AobingJava/JavaFamily/blob/master/docs/basics/HashMap.md)
+  - [HashMap](https://github.com/yuzhanwu/yunjin/blob/master/doc/basic/HashMap.md)
   - [ConcurrentHashMap & Hashtable](https://mp.weixin.qq.com/s/AixdbEiXf3KfE724kg2YIw)
   - [ArrayList](https://mp.weixin.qq.com/s/WoGclm7SsbURGigI3Mwr3w)
   - [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/NL7Jzh0lYoA395yzaGxBHw)
