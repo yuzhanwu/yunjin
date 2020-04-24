@@ -11,16 +11,18 @@
   - 设计模式
   
 - Tcp http https
-    - [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/NL7Jzh0lYoA395yzaGxBHw)
-    - [Tcp http https区别和联系](https://github.com/yuzhanwu/yunjin/blob/master/doc/basic/TCP-HTTP-HTTPS.md)
+    - [TCP三次握手和四次挥手](https://www.jianshu.com/p/5cc876e1fc79)
+    - [Tcp http https区别和联系](https://www.jianshu.com/p/93e0a1ff1d40)
 
 - 深入浅出JVM
 
   - JVM内存模型
-  - [内存结构](https://mp.weixin.qq.com/s/fit90VdZUa2pG9lbET0i7w)
-  - [垃圾回收算法](https://mp.weixin.qq.com/s/_AKQs-xXDHlk84HbwKUzOw)
-  - [垃圾回收器](https://mp.weixin.qq.com/s/fit90VdZUa2pG9lbET0i7w)
-
+  - [Jvm数据类型](https://www.jianshu.com/p/8a156963995b)
+  - [Jvm运行时数据区](https://www.jianshu.com/p/1352b3f2adc7)
+  - [对象创建，对象结构，访问](https://www.jianshu.com/p/14b39b21024d)
+  - [垃圾回收算法](https://www.jianshu.com/p/05ee8c889192)
+  - [垃圾回收器](https://www.jianshu.com/p/879397685020)
+  - 线上故障排查（cpu高堆内存溢出）
 - 并发与多线程
 
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
