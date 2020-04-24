@@ -6,7 +6,7 @@
 - Java基础
 
   - [HashMap](https://github.com/yuzhanwu/yunjin/blob/master/doc/basic/HashMap.md)
-  - [ConcurrentHashMap & Hashtable](https://github.com/yuzhanwu/yunjin/blob/master/doc/basic/ConcurrentHashMap-HashTable.md)
+  - [ConcurrentHashMap & Hashtable](https://www.jianshu.com/p/7e3e73b8935f)
   - 面向对象
   - 设计模式
   
