@@ -7,7 +7,8 @@
 
   - [HashMap](https://github.com/yuzhanwu/yunjin/blob/master/doc/basic/HashMap.md)
   - [ConcurrentHashMap & Hashtable](https://www.jianshu.com/p/7e3e73b8935f)
-  - 面向对象
+  - [面向对象](https://www.jianshu.com/p/d76a1017d68c)
+  - UML类图
   - 设计模式
   
 - Tcp http https
